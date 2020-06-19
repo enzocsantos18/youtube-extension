@@ -1,10 +1,10 @@
-<img src="https://github.com/enzocsantos18/youtube-extension/blob/master/icons/youtube.png" height="80" width="80" ><br>
+<img src="https://github.com/enzocsantos18/youtube-extension/blob/master/icons/youtube.png" height="80" width=auto ><br>
 # Extensão de redirecionamento para o youtube.
 Essa extensão redireciona da home do youtube para a área de inscritos quando colocamos o link "https://youtube.com" na barra de pesquisa do navegador.
 
 
-## Exemplp
-<br><img src="https://github.com/enzocsantos18/youtube-extension/blob/master/icons/youtube.gif" height="600" width="auto" ><br>
+## Exempl0
+<br><img src="https://github.com/enzocsantos18/youtube-extension/blob/master/icons/youtube.gif" height=auto width="auto" ><br>
 
 ## Instalação
 1. `git clone` nesse repositorio.
