@@ -3,7 +3,7 @@
 Essa extensão redireciona da home do youtube para a área de inscritos quando colocamos o link "https://youtube.com" na barra de pesquisa do navegador.
 
 
-## Exempl0
+## Exemplo
 <br><img src="https://github.com/enzocsantos18/youtube-extension/blob/master/icons/youtube.gif" height=auto width="auto" ><br>
 
 ## Instalação
