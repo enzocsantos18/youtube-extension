@@ -1,0 +1,20 @@
+{
+
+  "manifest_version": 2,
+  "name": "gotosubscriptions",
+  "version": "1.0",
+
+  "description": "Redireciona para a página de inscrições do youtube",
+  "icons": {
+    "48": "icons/youtube.png"
+  },
+  
+  "content_scripts": [
+    {
+      "run_at": "document_start",
+      "matches": ["https://www.youtube.com/"],
+      "js": ["index.js"]
+    }
+  ]
+
+}
